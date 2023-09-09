@@ -22,13 +22,16 @@ Welcome to my GitHub profile, where I share my coding journey and collaborate on
 - 🤝 Collaboration: I'm open to collaboration and contributions on exciting projects. Let's build something great together!
 
 ## Connect with Me
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.lopes.2010@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lopes-8a218956)
 
-<br>
+</div>
 
-#### My Current Tech Stacks
+## My Current Tech Stacks
 
+<div align="center">
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
