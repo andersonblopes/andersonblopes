@@ -1,6 +1,6 @@
 <div align="left">
 
-  # Software Java and Angular Developer
+  # Software Developer
 
 👋 Hi there! 
 
