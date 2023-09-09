@@ -37,6 +37,7 @@ Welcome to my GitHub profile, where I share my coding journey and collaborate on
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonblopes&show_icons=true&layout=compact&langs_count=8">
